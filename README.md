@@ -92,8 +92,3 @@ Aplikasi web ini dirancang untuk membantu koperasi dalam mengelola transaksi jua
 └── DATABASE FILE
 ```
 
-## Kontribusi
-
-Kontribusi sangat terbuka! Silakan fork repository ini dan buat pull request dengan perubahan yang Anda usulkan.
-
----
